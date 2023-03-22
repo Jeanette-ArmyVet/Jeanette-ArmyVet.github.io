@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Jeanette's 11.html</title>
+</head>
+
+<body background="fruitBG-min.jpg">
+<table align="center" width="80%" cellpadding="5" cellspacing="15">
+
+<tr> 
+<th colspan="2" style="color:#161917;">Eat these for a healthy gut microbiome!</th>
+<th width="20%" align="right"><img src="organix-min.jpg" width="32" height="32" /></th>
+
+</tr>
+
+
+<tr>
+<td>Berries</td>
+<td>Bananas</td>
+</tr>
+
+<tr>
+<td>Broccoli</td>
+<td>Bell Peppers</td>
+</tr>
+
+<break/>
+
+<a href="10.html">Back to my image page</a>
+
+
+<a href="mailto:jeanette.dominguez@my.gavilan.edu">E-mail Jeanette for more information!</a>
